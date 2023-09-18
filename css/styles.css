@@ -10,13 +10,8 @@ body {
     background-color: #FAF9F6;
 }
 
-/*****Media*****/
-@media (min-width: 1024px) {
-    span.text-icon {
-        display: none;
-    }
 
-}
+
 
 h1 {
     font-family: 'Montserrat';
@@ -149,4 +144,24 @@ p {
 
 .typo-notice {
     padding-top: 8rem;
+}
+
+/*****Media*****/
+@media (min-width: 1024px) {
+    span.text-icon {
+        display: none;
+    }
+    
+    }
+@media (max-device-width: 1024px) {
+    .left-box {
+        width: 90%;
+    }
+    .right-box {
+        width: 95%;
+        
+    }
+    .ssat-printname {
+        width: 75%;
+    }
 }
