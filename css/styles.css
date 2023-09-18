@@ -1,0 +1,152 @@
+html {
+    overflow-x: hidden;
+}
+
+
+body {
+    
+    overflow-x: hidden;
+    font-family: 'Montserrat';
+    background-color: #FAF9F6;
+}
+
+/*****Media*****/
+@media (min-width: 1024px) {
+    span.text-icon {
+        display: none;
+    }
+
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+hr {
+    margin: 28px;
+}
+
+p {
+    font-family: 'Montserrat';
+}
+
+.bottom-navigation {
+    color: #fff;
+    background-color: #074261;
+    text-align: center;
+    padding: 28px 28px;
+}
+
+
+.card-navigation {
+    margin-top: 18px;
+}
+
+.cars-column {
+    padding-top: 20px;
+}
+
+.cars-row {
+    background-color: #fff;
+    
+}
+
+
+.contact-icon {
+    margin-right: 20px;
+    color: #074261;
+}
+
+.contact-icon:hover {
+    color: #2e5d6e;
+}
+
+.dropdown-secondary-btn {
+    background-color: #37688c;
+}
+
+.finance-option-btn {
+    background-color: #074261;
+    padding: auto;
+}
+
+.finance-btn {
+    margin: 28px 0;
+}
+
+
+
+.item-box {
+    margin: 8px;
+}
+
+.left-box {
+    
+    background-color: #fff;
+    line-height: 48px;
+}
+
+.quick-specs {
+    height: 1.4rem;
+}
+
+.right-box {
+    width: 70%;
+    padding: auto 18px;
+}
+
+.right-box-btn {
+    background-color: #074261;
+}
+
+
+.search-bar {
+    width: 40%;
+
+}
+
+.search-border {
+    border: 1px solid;
+    border-color: #074261;
+}
+
+.search-button {
+    background-color: #074261;
+}
+
+.search-button:hover {
+    background-color: #2e5d6e;
+}
+
+.share-sort-box {
+    margin: 28px;
+}
+
+.sharefilter-btn {
+    color: #074261;
+}
+
+.sort-btn {
+    text-align: right;
+}
+
+.ssat-head {
+    text-align: center;
+    background-color: #074261;
+    color: white;
+    padding: 1rem;
+}
+
+.ssat-printname {
+ padding: 1.5rem;
+ width: 28%;
+}
+
+.ssat-navbar {
+    padding: 10px;
+}
+
+.typo-notice {
+    padding-top: 8rem;
+}
