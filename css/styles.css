@@ -41,12 +41,7 @@ p {
 .cars-column {
     padding-top: 20px;
 }
-
-.cars-row {
-    background-color: #fff;
     
-}
-
 
 .contact-icon {
     margin-right: 20px;
@@ -78,7 +73,6 @@ p {
 
 .left-box {
     
-    background-color: #fff;
     line-height: 48px;
 }
 
@@ -143,7 +137,7 @@ p {
 }
 
 .typo-notice {
-    padding-top: 8rem;
+    padding: 5rem 0  5rem;
 }
 
 /*****Media*****/
@@ -163,5 +157,9 @@ p {
     }
     .ssat-printname {
         width: 75%;
+    }
+
+    .typo-notice {
+        text-align: center;
     }
 }
